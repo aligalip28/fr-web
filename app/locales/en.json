@@ -1,0 +1,10 @@
+{
+  "common": {
+    "test": "test English",
+    "Turkish": "Turkish",
+    "English": "English",
+    "contact-us": "Contact Us",
+    "about-us": "About Us",
+    "recipes": "Recipes"
+  }
+}

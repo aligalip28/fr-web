@@ -1,0 +1,28 @@
+{
+  "name": "fr-web",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@headlessui/vue": "^1.7.23",
+    "@heroicons/vue": "^2.2.0",
+    "@nuxt/image": "^2.0.0",
+    "@nuxtjs/i18n": "^10.2.1",
+    "@pinia/nuxt": "^0.11.3",
+    "@tailwindcss/vite": "^4.1.18",
+    "@tanstack/vue-virtual": "^3.13.18",
+    "nuxt": "^4.2.2",
+    "nuxt-swiper": "^2.0.1",
+    "nuxt-toastify": "^1.1.0",
+    "swiper": "^12.0.3",
+    "tailwindcss": "^4.1.18",
+    "vue": "^3.5.26",
+    "vue-router": "^4.6.4"
+  }
+}
